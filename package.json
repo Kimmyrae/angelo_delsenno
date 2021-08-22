@@ -15,6 +15,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@graphql-tools/url-loader": "^7.0.11",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
     "gatsby": "^3.11.1",
     "gatsby-plugin-gatsby-cloud": "^3.0.0",
     "gatsby-plugin-image": "^1.12.0",
