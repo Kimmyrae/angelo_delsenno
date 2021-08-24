@@ -5,9 +5,9 @@ import { StaticImage } from 'gatsby-plugin-image'
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+      <p>Blog to share my music</p>
       <StaticImage
-        alt="Clifford, a reddish-brown pitbull, dozing in a bean bag chair"
+        alt="Angelo DelSenno in Michael Cozzy's recording studio, Seattle WA"
         src="../images/angelo.jpeg"
       />
     </Layout>
